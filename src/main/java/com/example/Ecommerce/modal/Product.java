@@ -1,4 +1,4 @@
-package com.example.Ecommerce.Repo;
+package com.example.Ecommerce.modal;
 
 public class Product {
 
